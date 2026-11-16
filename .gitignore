@@ -1,0 +1,17 @@
+# data and models: never commit
+data/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.zip
+# secrets
+.env
+kaggle.json
+# python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+# frontend
+node_modules/
+.next/
