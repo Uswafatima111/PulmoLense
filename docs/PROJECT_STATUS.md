@@ -20,3 +20,4 @@ PulmoLens: explainable, reliability-aware multi-label chest X-ray classification
 
 ## Next
 - Milestone 1: verified literature search
+Milestone 0 done, Milestone 1 provisional, proposal drafted.
